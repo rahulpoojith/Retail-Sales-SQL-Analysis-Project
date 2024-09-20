@@ -40,6 +40,8 @@ CREATE TABLE retail_sales
     total_sale FLOAT
 );
 ```
+![screenshot](screenshot.png)
+
 
 ### 2. Data Exploration & Cleaning
 
